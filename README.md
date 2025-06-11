@@ -1,6 +1,6 @@
-# flutter_application_1
+# my_first_flutter_app (flutter_application_1)
 
-A new Flutter project.
+นี่คือแอป Flutter แรกของคุณ
 
 ## Getting Started
 
